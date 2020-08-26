@@ -1,0 +1,16 @@
+var food = "Pizza"
+
+var isDelicious = true
+
+food = "Salad"
+
+var num2 = 2
+
+var num7 = 14
+
+var quotient = num7 / num2
+
+var songs = ["Can't Touch This", "Thriller", "Drifter"]
+songs.shift();
+
+var n = food.length
