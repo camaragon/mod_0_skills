@@ -1,0 +1,14 @@
+Instance: Billy's Burger
+
+Attributes:
+type = "Burger"
+hot = true
+ingredients = ["bun", "patty", "lettuce", "tomato", "onion"]
+calories = 875
+cookTime = 10
+
+Methods:
+makeVegan: ingredients = ["vegan bun", "black bean patty", "lettuce", "tomato", "onion"]
+cold: hot = false
+halfPortion: calories = 435
+wellDone: cookTime = 12
