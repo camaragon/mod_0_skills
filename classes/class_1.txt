@@ -1,0 +1,14 @@
+Class: Food
+
+Attributes:
+type (string)
+hot (boolean)
+ingredients (array)
+calories (integer)
+cookTime (integer)
+
+Methods:
+makeVegan (removes meat item from ingredients array and replaces with vegan option)
+cold (changes hot to false)
+halfPortion(decreases calories by half)
+wellDone (increases cookTime)
