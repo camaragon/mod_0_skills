@@ -1,0 +1,13 @@
+Class: Employees
+
+Attributes:
+jobCode (string)
+frontOfHouse (boolean)
+scheduledDays (array)
+hoursWorked (integer)
+
+Methods:
+changeJobCode (change the jobCode type)
+switchToBackOfHouse (frontOfHouse becomes false)
+pickUpShift (a day of the week is added to scheduledDays)
+stayLate (increases hoursWorked)
