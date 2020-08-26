@@ -1,0 +1,13 @@
+Instance: Jerry the Server
+
+Attributes:
+jobCode = "Server"
+frontOfHouse = true
+scheduledDays = ["Monday", "Wednesday", "Friday", "Saturday"]
+hoursWorked = 21
+
+Methods:
+changeJobCode: jobCode = "Bartender"
+switchToBackOfHouse: frontOfHouse = false
+pickUpShift: scheduledDays = ["Monday", "Wednesday", "Friday", "Saturday", "Sunday"]
+stayLate: hoursWorked = 23
